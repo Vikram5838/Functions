@@ -10,6 +10,7 @@ public class Lms {
 		lms.add(789);
 		lms.add(999);
 		lms.set(2, 555);
+		System.out.println("Vikram");
 		/*System.out.println(lms.get(3));
 		lms.remove(2);
 		System.out.println(lms.size());
